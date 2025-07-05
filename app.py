@@ -17,7 +17,8 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://i.pinimg.com/564x/79/17/bb/7917bbc2eeb74df1adcd70e81b6e2ed6.jpg");
+        background-image: url("https://www.transparenttextures.com/patterns/grey_wash_wall.png
+");
         background-attachment: fixed;
         background-size: cover;
         background-repeat: no-repeat;
