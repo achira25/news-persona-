@@ -13,6 +13,25 @@ from sklearn.metrics.pairwise import cosine_similarity
 nltk.download('punkt')
 nltk.download('stopwords')
 
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-image: url("https://i.pinimg.com/564x/79/17/bb/7917bbc2eeb74df1adcd70e81b6e2ed6.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.98;
+    }
+    .stTextInput, .stSelectbox, .stButton, .stRadio, .stTextArea {
+        background-color: rgba(255, 255, 255, 0.85) !important;
+        border-radius: 8px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.set_page_config(page_title="Personalized News Finder", page_icon="📰", layout="wide")
 
 # Initialize session state
