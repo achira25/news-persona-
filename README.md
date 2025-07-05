@@ -1,6 +1,6 @@
 # 📰 Personalized News Finder
 
-**AI-powered news classification and recommendation system** built using **Streamlit**, **Machine Learning**, and **Information Retrieval** techniques.
+**IR+ML powered news classification and recommendation system** built using **Streamlit**, **Machine Learning**, and **Information Retrieval** techniques.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python" />
