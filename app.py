@@ -22,7 +22,7 @@ st.markdown(
         background-attachment: fixed;
         background-size: cover;
         background-repeat: no-repeat;
-        opacity: 0.98;
+        
     }
     .stTextInput, .stSelectbox, .stButton, .stRadio, .stTextArea {
         background-color: rgba(255, 255, 255, 0.85) !important;
